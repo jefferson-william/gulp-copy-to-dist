@@ -1,0 +1,14 @@
+{
+  "name": "gulp-copy-to-dist",
+  "version": "0.0.3",
+  "description": "gulp-copy-to-dist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson William Machado",
+  "license": "MIT",
+  "devDependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
